@@ -4,7 +4,7 @@
 
 The 2026 version of the website for React Cebu, a free community for developers learning React together in Cebu, Philippines. React Cebu is part of JavaScript Cebu.
 
-- **Live preview:** https://react-cebu-2026-preview.netlify.app/
+- **Website:** https://react.jscebu.org/
 - **Community:** [React Cebu on Facebook](https://www.facebook.com/reactcebu/)
 
 Built with Next.js (App Router), React, TypeScript and Tailwind CSS v4. Animations use GSAP (ScrollTrigger, SplitText, Draggable, Inertia) with Lenis smooth scrolling. The phone on the Events page uses three.js.
